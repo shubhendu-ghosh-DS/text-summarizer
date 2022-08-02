@@ -1,7 +1,16 @@
 # text-summarizer  
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313036342f312a4749567669794e39513063714f6263792d712d6a75512e706e67](https://user-images.githubusercontent.com/77840111/182293181-a197ce31-f446-4950-8431-1e3659238109.png)
-In this project we will summarize texts using cosine distance, graph and word2vec. 
-## Requirements
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313036342f312a4749567669794e39513063714f6263792d712d6a75512e706e67](https://user-images.githubusercontent.com/77840111/182293181-a197ce31-f446-4950-8431-1e3659238109.png)  
+  
+    
+    
+### In this project we will summarize texts using cosine distance, graph and word2vec. 
+## Requirements  
+- nltk
+- numpy
+- pandas
+- gensim
+- networkx
+- re
 
 ## **Original Text** :  
 Bitcoin is a cryptocurrency, a virtual currency designed to act as money and a form of payment outside the control of any one person, group, or entity, and thus removing the need for third-party involvement in financial transactions. It is rewarded to blockchain miners for the work done to verify transactions and can be purchased on several exchanges.
