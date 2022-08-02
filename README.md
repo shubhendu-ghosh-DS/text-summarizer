@@ -11,6 +11,9 @@
 - gensim
 - networkx
 - re
+ 
+### Please refer to the notebook in notebooks folder about detailed project
+here we will see the results of the model
 
 ## **Original Text** :  
 Bitcoin is a cryptocurrency, a virtual currency designed to act as money and a form of payment outside the control of any one person, group, or entity, and thus removing the need for third-party involvement in financial transactions. It is rewarded to blockchain miners for the work done to verify transactions and can be purchased on several exchanges.
